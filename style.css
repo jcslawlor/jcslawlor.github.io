@@ -1,0 +1,19 @@
+body {
+  background-color: #FFC7BB;
+  color: black;
+  font-family: serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.abar {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  text-align: center;
+}
