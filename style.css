@@ -5,7 +5,33 @@ body {
 }
 
 h1 {
-  text-align: center;
+  text-align: left;
+}
+
+.topbar {
+  padding:var(--navbar-padding,.5rem);
+  min-height:4rem;
+  width: 100%
+}
+
+.topbar,
+.topbar>* {
+ display:flex;
+ align-items:center
+}
+
+.topbar-start {
+ width:50%;
+ justify-content:flex-start
+}
+
+.topbar-center {
+ flex-shrink:0
+}
+
+.topbar-end {
+ width:50%;
+ justify-content:flex-end
 }
 
 .abar {
