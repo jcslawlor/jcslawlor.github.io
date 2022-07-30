@@ -1,13 +1,13 @@
 body {
   background-color: #ffef00;
   color: black;
-  font-family: serif;
+  font-family: Verdana;
 }
 
 h1 {
   text-align: left;
 }
-
+/*Header bar for website. To do: make hover links*/
 .topbar {
   padding:var(--navbar-padding,.5rem);
   min-height:4rem;
@@ -34,11 +34,14 @@ h1 {
  justify-content:flex-end
 }
 
+/*
+Lower navbar - may be extraneous
 .abar {
   text-align: center;
   padding: 0;
   margin: 0;
 }
+*/
 
 p {
   text-align: center;
