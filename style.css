@@ -8,40 +8,37 @@ h1 {
   text-align: left;
 }
 /*Header bar for website. To do: make hover links*/
-.topbar {
+.container {
   padding:var(--navbar-padding,.5rem);
   min-height:4rem;
   width: 100%
 }
 
-.topbar,
-.topbar>* {
+.container,
+.container>* {
  display:flex;
  align-items:center
 }
 
-.topbar-start {
+.container .brand
+{ height: auto;
+min-height: 20px;
+min-width: 20px;
+width: auto; }
+
+.container-start {
  width:50%;
  justify-content:flex-start
 }
 
-.topbar-center {
+.container-center {
  flex-shrink:0
 }
 
-.topbar-end {
+.container-end {
  width:50%;
  justify-content:flex-end
 }
-
-/*
-Lower navbar - may be extraneous
-.abar {
-  text-align: center;
-  padding: 0;
-  margin: 0;
-}
-*/
 
 p {
   text-align: center;
