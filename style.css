@@ -5,18 +5,25 @@ body {
 }
 
 h1 {
-  text-align: left;
+  text-align: left
+    ;
 }
+
+.navbar {
+ display:block;
+ float:right;
+ }
+
+ p {
+  text-align: center;
+}
+ 
+
 /*Header bar for website. To do: make hover links
 .navbar {
   padding:var(--navbar-padding,.5rem);
   min-height:4rem;
   width: 100%
-}
-*/
-.navbar>* {
- display:flex;
- align-items:right
 }
 
 .container .brand
@@ -39,6 +46,5 @@ width: auto; }
  justify-content:flex-end
 }
 
-p {
-  text-align: center;
-}
+
+*/
