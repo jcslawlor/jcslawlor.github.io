@@ -16,7 +16,7 @@ h1 {
 */
 .navbar>* {
  display:flex;
- align-items:center
+ align-items:right
 }
 
 .container .brand
