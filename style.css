@@ -7,15 +7,14 @@ body {
 h1 {
   text-align: left;
 }
-/*Header bar for website. To do: make hover links*/
-.container {
+/*Header bar for website. To do: make hover links
+.navbar {
   padding:var(--navbar-padding,.5rem);
   min-height:4rem;
   width: 100%
 }
-
-.container,
-.container>* {
+*/
+.navbar>* {
  display:flex;
  align-items:center
 }
@@ -26,16 +25,16 @@ min-height: 20px;
 min-width: 20px;
 width: auto; }
 
-.container-start {
+.navbar-start {
  width:50%;
  justify-content:flex-start
 }
 
-.container-center {
+.navbar-center {
  flex-shrink:0
 }
 
-.container-end {
+.navbar-end {
  width:50%;
  justify-content:flex-end
 }
