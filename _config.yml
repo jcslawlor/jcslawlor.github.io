@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joseph Lawlor Website"
+title                    : "Joseph Lawlor"
 title_separator          : "-"
-subtitle                 : "This is Joe's personal website."
+subtitle                 : "This is Joe's personal portfolio. Joe is a recent grad from the Syracuse iSchool."
 name                     : "Joseph Lawlor"
 description              : "This is Joseph Lawlor's portfolio. I am a recent graduate from New Hampshire."
 url                      : "jcslawlor.github.io"
