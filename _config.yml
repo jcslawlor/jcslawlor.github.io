@@ -23,8 +23,8 @@ name                     : "Joseph Lawlor"
 description              : "This is Joseph Lawlor's portfolio. I am a recent IT and English graduate who is looking for entry-level data analytics, cybersecurity, and technical writing positions."
 url                      : "https://jcslawlor.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : jcslawlor/jcslawlor.github.io
-teaser                   : /assets/images/4KBJCLOB_400x400.jpg
+repository               : "jcslawlor/jcslawlor.github.io"
+teaser                   : "/assets/images/4KBJCLOB_400x400.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
