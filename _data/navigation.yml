@@ -1,8 +1,8 @@
 # main links
 main:
   title: "About"
-  url: /About
+  url: /About/
   title: "Work Examples"
-  url: /work-examples
+  url: /work-examples/
   title: "Sitemap"
   url: /sitemap/
