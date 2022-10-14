@@ -1,11 +1,10 @@
 ---
-title: "Post: Standard"
+title: "My first (test) post"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
+  - my first post
   - standard
 ---
 
