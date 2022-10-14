@@ -37,7 +37,8 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+    - jekyll-feed
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -51,7 +52,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
