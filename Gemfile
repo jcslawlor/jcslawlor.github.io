@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   gem "jekyll-gist"
+  gen "jekyll-feed"
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
