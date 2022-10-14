@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Joseph Lawlor"
   avatar : "/assets/images/4KBJCLOB_400x400.jpg"
-  bio    : "This is Joe's personal site and portfolio. I am a recent IT and English graduate who is looking for entry-level data analytics, cybersecurity, and technical writing positions."
+  bio    : "This is Joe's personal site and portfolio. I am a recent IT and English graduate who is looking for entry-level data analysis, cybersecurity, and technical writing positions."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
