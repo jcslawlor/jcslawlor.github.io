@@ -8,4 +8,4 @@ tags:
   - standard
 ---
 
-My first post! Not too much else to say. Allons-y!
+My first post!
